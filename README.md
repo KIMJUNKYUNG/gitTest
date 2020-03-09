@@ -1,3 +1,5 @@
 # gitTest
 ## mdTest
-conflict 발생 예시
+<<<<<<< HEAD
+conflict 해결
+
